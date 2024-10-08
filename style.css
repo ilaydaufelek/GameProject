@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to top left, #000000 25%, #805D7A 30%, #000000 60%);
+    min-height: 100vh; /* Sayfa minimum yüksekliği */
+    background-attachment: fixed; /* Arka plan sabitlenir */
+    background-size: cover; /* Arka planın ekranı tam kaplaması sağlanır */
+}
